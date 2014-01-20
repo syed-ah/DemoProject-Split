@@ -7,7 +7,8 @@
         <connection>https://github.com/syed-ah/DemoProject-Split.git</connection>
         <developerConnection>scm:git:https://github.com/syed-ah/DemoProject-Split.git</developerConnection>
         <url>scm:git:https://github.com/syed-ah/DemoProject-Split.git</url>
-    </scm>
+      <tag>boston</tag>
+  </scm>
 	<packaging>war</packaging>
 	<name>DemoProject-Split</name>
   
